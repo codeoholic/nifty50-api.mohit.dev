@@ -101,152 +101,152 @@ export const STOCKS = [
     },
     {
         symbol: "HEROMOTOCO.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Hero MotoCorp Ltd.",
         weightage: ""
     },
     {
         symbol: "HINDALCO.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Hindalco Industries Ltd.",
         weightage: ""
     },
     {
         symbol: "HINDUNILVR.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Hindustan Unilever Ltd.",
         weightage: ""
     },
     {
         symbol: "HDFC.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Housing Development Finance Corporation Ltd.",
         weightage: ""
     },
     {
         symbol: "ICICIBANK.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "ICICI Bank Ltd.",
         weightage: ""
     },
     {
         symbol: "ITC.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "ITC Ltd.",
         weightage: ""
     },
     {
         symbol: "INDUSINDBK.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "IndusInd Bank Ltd.",
         weightage: ""
     },
     {
         symbol: "INFY.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Infosys Ltd.",
         weightage: ""
     },
     {
         symbol: "JSWSTEEL.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "JSW Steel Ltd.",
         weightage: ""
     },
     {
         symbol: "KOTAKBANK.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Kotak Mahindra Bank Ltd.",
         weightage: ""
     },
     {
         symbol: "LT.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Larsen & Toubro Ltd.",
         weightage: ""
     },
     {
         symbol: "M&M.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Mahindra & Mahindra Ltd.",
         weightage: ""
     },
     {
         symbol: "MARUTI.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Maruti Suzuki India Ltd.",
         weightage: ""
     },
     {
         symbol: "NTPC.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "NTPC Ltd.",
         weightage: ""
     },
     {
         symbol: "NESTLEIND.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Nestle India Ltd.",
         weightage: ""
     },
     {
         symbol: "ONGC.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Oil & Natural Gas Corporation Ltd.",
         weightage: ""
     },
     {
         symbol: "POWERGRID.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Power Grid Corporation of India Ltd.",
         weightage: ""
     },
     {
         symbol: "RELIANCE.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Reliance Industries Ltd.",
         weightage: ""
     },
     {
         symbol: "SBILIFE.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "SBI Life Insurance Company Ltd.",
         weightage: ""
     },
     {
         symbol: "SBIN.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "State Bank of India",
         weightage: ""
     },
     {
         symbol: "SUNPHARMA.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Sun Pharmaceutical Industries Ltd.",
         weightage: ""
     },
     {
         symbol: "TCS.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Tata Consultancy Services",
         weightage: ""
     },
     {
         symbol: "TATACONSUM.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Tata Consumer Products",
         weightage: ""
     },
     {
         symbol: "TATAMOTORS.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Tata Motors",
         weightage: ""
     },
     {
         symbol: "TATASTEEL.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Tata Steel",
         weightage: ""
     },
     {
         symbol: "TECHM.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Tech Mahindra",
         weightage: ""
     },
     {
         symbol: "TITAN.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Titan Company",
         weightage: ""
     },
     {
         symbol: "UPL.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "UPL",
         weightage: ""
     },
     {
         symbol: "ULTRACEMCO.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "UltraTech Cement",
         weightage: ""
     },
     {
         symbol: "WIPRO.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "Wipro",
         weightage: ""
     }
 ]
