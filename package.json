@@ -1,0 +1,17 @@
+{
+  "name": "nifty50-api-mohit-dev",
+  "version": "0.0.0",
+  "devDependencies": {
+    "wrangler": "2.1.10"
+  },
+  "private": true,
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler publish",
+    "test": "jest"
+  },
+  "dependencies": {
+    "itty-router": "^2.6.6",
+    "yahoo-finance2": "^2.3.6"
+  }
+}
