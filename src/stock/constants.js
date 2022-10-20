@@ -1,197 +1,197 @@
 export const STOCKS = [
     {
         symbol: "ADANIENT.NS",
-        name: "Adani Enterprises Ltd.",
+        name: "Adani Enterprises",
         weightage: ""
     },
     {
         symbol: "ADANIPORTS.NS",
-        name: "Adani Ports and Special Economic Zone Ltd.",
+        name: "Adani Ports and Special Economic Zone",
         weightage: ""
     },
     {
         symbol: "APOLLOHOSP.NS",
-        name: "Apollo Hospitals Enterprise Ltd.",
+        name: "Apollo Hospitals Enterprise",
         weightage: ""
     },
     {
         symbol: "ASIANPAINT.NS",
-        name: "Asian Paints Ltd.",
+        name: "Asian Paints",
         weightage: ""
     },
     {
         symbol: "AXISBANK.NS",
-        name: "Axis Bank Ltd.",
+        name: "Axis Bank",
         weightage: ""
     },
     {
         symbol: "BAJAJ-AUTO.NS",
-        name: "Bajaj Auto Ltd.",
+        name: "Bajaj Auto",
         weightage: ""
     },
     {
         symbol: "BAJFINANCE.NS",
-        name: "Bajaj Finance Ltd.",
+        name: "Bajaj Finance",
         weightage: ""
     },
     {
         symbol: "BAJAJFINSV.NS",
-        name: "Bajaj Finserv Ltd.",
+        name: "Bajaj Finserv",
         weightage: ""
     },
     {
         symbol: "BPCL.NS",
-        name: "Bharat Petroleum Corporation Ltd.",
+        name: "Bharat Petroleum Corporation",
         weightage: ""
     },
     {
         symbol: "BHARTIARTL.NS",
-        name: "Bharti Airtel Ltd.",
+        name: "Bharti Airtel",
         weightage: ""
     },
     {
         symbol: "BRITANNIA.NS",
-        name: "Britannia Industries Ltd.",
+        name: "Britannia Industries",
         weightage: ""
     },
     {
         symbol: "CIPLA.NS",
-        name: "Cipla Ltd.",
+        name: "Cipla",
         weightage: ""
     },
     {
         symbol: "COALINDIA.NS",
-        name: "Coal India Ltd.",
+        name: "Coal India",
         weightage: ""
     },
     {
         symbol: "DIVISLAB.NS",
-        name: "Divi's Laboratories Ltd.",
+        name: "Divi's Laboratories",
         weightage: ""
     },
     {
         symbol: "DRREDDY.NS",
-        name: "Dr. Reddy's Laboratories Ltd.",
+        name: "Dr. Reddy's Laboratories",
         weightage: ""
     },
     {
         symbol: "EICHERMOT.NS",
-        name: "Eicher Motors Ltd.",
+        name: "Eicher Motors",
         weightage: ""
     },
     {
         symbol: "GRASIM.NS",
-        name: "Grasim Industries Ltd.",
+        name: "Grasim Industries",
         weightage: ""
     },
     {
         symbol: "HCLTECH.NS",
-        name: "HCL Technologies Ltd.",
+        name: "HCL Technologies",
         weightage: ""
     },
     {
         symbol: "HDFCBANK.NS",
-        name: "HDFC Bank Ltd.",
+        name: "HDFC Bank",
         weightage: ""
     },
     {
         symbol: "HDFCLIFE.NS",
-        name: "HDFC Life Insurance Company Ltd.",
+        name: "HDFC Life Insurance Company",
         weightage: ""
     },
     {
         symbol: "HEROMOTOCO.NS",
-        name: "Hero MotoCorp Ltd.",
+        name: "Hero MotoCorp",
         weightage: ""
     },
     {
         symbol: "HINDALCO.NS",
-        name: "Hindalco Industries Ltd.",
+        name: "Hindalco Industries",
         weightage: ""
     },
     {
         symbol: "HINDUNILVR.NS",
-        name: "Hindustan Unilever Ltd.",
+        name: "Hindustan Unilever",
         weightage: ""
     },
     {
         symbol: "HDFC.NS",
-        name: "Housing Development Finance Corporation Ltd.",
+        name: "Housing Development Finance Corporation",
         weightage: ""
     },
     {
         symbol: "ICICIBANK.NS",
-        name: "ICICI Bank Ltd.",
+        name: "ICICI Bank",
         weightage: ""
     },
     {
         symbol: "ITC.NS",
-        name: "ITC Ltd.",
+        name: "ITC",
         weightage: ""
     },
     {
         symbol: "INDUSINDBK.NS",
-        name: "IndusInd Bank Ltd.",
+        name: "IndusInd Bank",
         weightage: ""
     },
     {
         symbol: "INFY.NS",
-        name: "Infosys Ltd.",
+        name: "Infosys",
         weightage: ""
     },
     {
         symbol: "JSWSTEEL.NS",
-        name: "JSW Steel Ltd.",
+        name: "JSW Steel",
         weightage: ""
     },
     {
         symbol: "KOTAKBANK.NS",
-        name: "Kotak Mahindra Bank Ltd.",
+        name: "Kotak Mahindra Bank",
         weightage: ""
     },
     {
         symbol: "LT.NS",
-        name: "Larsen & Toubro Ltd.",
+        name: "Larsen & Toubro",
         weightage: ""
     },
     {
         symbol: "M&M.NS",
-        name: "Mahindra & Mahindra Ltd.",
+        name: "Mahindra & Mahindra",
         weightage: ""
     },
     {
         symbol: "MARUTI.NS",
-        name: "Maruti Suzuki India Ltd.",
+        name: "Maruti Suzuki India",
         weightage: ""
     },
     {
         symbol: "NTPC.NS",
-        name: "NTPC Ltd.",
+        name: "NTPC",
         weightage: ""
     },
     {
         symbol: "NESTLEIND.NS",
-        name: "Nestle India Ltd.",
+        name: "Nestle India",
         weightage: ""
     },
     {
         symbol: "ONGC.NS",
-        name: "Oil & Natural Gas Corporation Ltd.",
+        name: "Oil & Natural Gas Corporation",
         weightage: ""
     },
     {
         symbol: "POWERGRID.NS",
-        name: "Power Grid Corporation of India Ltd.",
+        name: "Power Grid Corporation of India",
         weightage: ""
     },
     {
         symbol: "RELIANCE.NS",
-        name: "Reliance Industries Ltd.",
+        name: "Reliance Industries",
         weightage: ""
     },
     {
         symbol: "SBILIFE.NS",
-        name: "SBI Life Insurance Company Ltd.",
+        name: "SBI Life Insurance Company",
         weightage: ""
     },
     {
@@ -201,7 +201,7 @@ export const STOCKS = [
     },
     {
         symbol: "SUNPHARMA.NS",
-        name: "Sun Pharmaceutical Industries Ltd.",
+        name: "Sun Pharmaceutical Industries",
         weightage: ""
     },
     {
