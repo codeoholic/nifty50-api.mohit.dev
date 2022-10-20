@@ -26,6 +26,7 @@ const cron = async () => {
     }))
 
     await NIFTY50.put("data", JSON.stringify(response))
+    console.log( "cron called" )
 
 }
 
