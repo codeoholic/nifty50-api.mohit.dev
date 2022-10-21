@@ -31,7 +31,7 @@ router.all('*', () => new Response(
 )
 async function triggerEvent(scheduledTime) {
 
-    cron()
+    await cron()
 
 }
   
